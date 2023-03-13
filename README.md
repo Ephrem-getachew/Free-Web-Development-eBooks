@@ -1,4 +1,4 @@
-# Free Web Development Books
+# Free Web Development Books 
 
 This is a backup edition of @TechBookHunter's curated collection of free web development related eBooks available on the Internet. The original [repository](https://github.com/TechBookHunter/Free-Web-Development-Books) no longer exists. 
 
