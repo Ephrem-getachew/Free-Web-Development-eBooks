@@ -7,7 +7,7 @@ Please feel free to share, learn and contribute.
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 §
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
- 
+  
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
