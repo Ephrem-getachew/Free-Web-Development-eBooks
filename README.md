@@ -3,7 +3,7 @@
 This is a backup edition of @TechBookHunter's curated collection of free web development related eBooks available on the Internet. The original [repository](https://github.com/TechBookHunter/Free-Web-Development-Books) no longer exists. 
   
 Please feel free to share, learn and contribute. 
- 
+  
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 §
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
