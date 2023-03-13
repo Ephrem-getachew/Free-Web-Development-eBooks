@@ -9,7 +9,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
   
 ## List of Books
-
+ 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
 * Angular Test-Driven Development - Second Edition [[Download]](/book/Angular/Angular%20Test-Driven%20Development%20-%20Second%20Edition.pdf)
